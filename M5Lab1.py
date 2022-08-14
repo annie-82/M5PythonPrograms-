@@ -4,6 +4,6 @@
 
 i = 0   # Initialize the counter
 print("Hello World")    # Print the string
-while (i <= 10):    # While loop (run till i is less than or equal to 10)
+while (i <= 10):    # While loop (run till i is less than or equal to 10) # 100 times instead 10
     print("Hello World")
     i = i + 1   # Increment the counter
